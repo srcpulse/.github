@@ -9,6 +9,6 @@
    \|_________|                                                \|_________|                                                                                                                                                       
 ```
 
-We collect anonymous feedback from individual contributors and engineering managers when we detect events that impact project deadlines..
+We collect anonymous feedback from individual contributors and engineering managers when we detect events that impact project deadlines.
 
 Check our [beta waitlist](https://www.sourcepulse.io) 👈
